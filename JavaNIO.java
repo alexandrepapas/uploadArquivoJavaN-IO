@@ -12,8 +12,7 @@ public class JavaNIO {
 
         try {
 
-            // ainda não falamos de arrays e coleções
-            // é só para ilustrar a escrita de várias linhas em um arquivo
+
             List<String> contatos = new ArrayList<>();
             contatos.add("(83) 2148-5886 Joemia Giron Lyrio Monnerat");
             contatos.add("(21) 2705-6726 Reginaldo Folly Barboza Brito");
